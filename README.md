@@ -1,0 +1,2 @@
+# MediQR
+Software engineering project
